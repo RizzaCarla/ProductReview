@@ -14,6 +14,7 @@ __Product Reviews Page:__
 3. Have more consistent sizes for headers.
 4. Change font to be the latest but at the same time available in all browser.
 5. Lower the stars.
+6. Make the Toast Smaller
 
 __Other:__
 1. Create a Navbar to allow user to navigate to different pages.
