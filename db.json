@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Velvet Sofa"
+    },
+    {
+      "id": 2,
+      "name": "Plain Bed"
+    },
+    {
+      "id": 3,
+      "name": "Huge Rug"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Oliver",
+      "star_rating": 5,
+      "headline": "I love this product!",
+      "body": "This sofa has completely changed my life. The delivery process couldn't have been easier. I want to sing about Oliver Space from the rooftops!",
+      "productId": "0"
+    },
+    {
+      "author": "new",
+      "star_rating": 5,
+      "headline": "Love it",
+      "body": "Would rent this dining room table one hundred times over.",
+      "productId": "0",
+      "id": 2
+    },
+    {
+      "author": "Rizza",
+      "star_rating": "5",
+      "headline": "Best Bed",
+      "body": "Hard enough for your back!",
+      "productId": 2,
+      "id": 3
+    },
+    {
+      "author": "Rizza",
+      "star_rating": 5,
+      "headline": "Cool Sofa",
+      "body": "Very Comfy!",
+      "productId": 0,
+      "id": 4
+    },
+    {
+      "author": "Rizza",
+      "star_rating": 0,
+      "headline": "Too Big",
+      "body": "It's too furry!",
+      "productId": 3,
+      "id": 5
+    },
+    {
+      "author": "Aaron",
+      "star_rating": 5,
+      "headline": "Soft!",
+      "body": "I'm getting sucked in.",
+      "productId": 2,
+      "id": 6
+    },
+    {
+      "author": "Aaron",
+      "star_rating": 5,
+      "headline": "Sturdy!",
+      "body": "Hard wood is nice.",
+      "productId": 2,
+      "id": 7
+    },
+    {
+      "author": "Aaron",
+      "star_rating": 5,
+      "headline": "Cool",
+      "body": "Cool Bed!",
+      "id": 8
+    },
+    {
+      "author": "Aaron",
+      "star_rating": 5,
+      "headline": "Too Short",
+      "body": "Bed too short",
+      "productId": 2,
+      "id": 9
+    },
+    {
+      "author": "Rizza",
+      "star_rating": 5,
+      "headline": "Cute",
+      "body": "Nice color!",
+      "productId": 3,
+      "id": 10
+    },
+    {
+      "author": "Rizza",
+      "star_rating": 3,
+      "headline": "Decent Sofa",
+      "body": "Could be softer",
+      "productId": 0,
+      "id": 11
+    },
+    {
+      "author": "Rizza",
+      "star_rating": 1,
+      "headline": "Terrible",
+      "body": "It was broken",
+      "productId": 0,
+      "id": 12
+    },
+    {
+      "author": "Trishia",
+      "star_rating": 3,
+      "headline": "Decent Sofa",
+      "body": "Kinda outdated",
+      "productId": 0,
+      "id": 13
+    }
+  ]
+}
