@@ -44,8 +44,9 @@ const ProductReview = () => {
                       <hr></hr>
                       {productReviews.map((review, index2) => {
                         if (review.productId === product.id) {
-                            console.log(review.author)
+
                             return (
+
                               <ToastContainer key={index2}>
                                 <Toast>
                                   <Toast.Header closeButton={false}>
@@ -64,7 +65,6 @@ const ProductReview = () => {
                             )
                         }
                       })}
-                    {/* </Accordion.Body> */}
                   </Fragment>
                 </Row>
               </Card.Body>
